@@ -18,7 +18,7 @@ I included a .exe file for easy use
 
 # Linux and Mac
 
-As the program is written in python and python is included for both linux and mac. You can therefore run the program as is, though you might need some of the dependencies: 
+As the program is written in python and python is included for both linux and mac. You can therefore run the program as is, though you will need these dependencies: 
 - customtkinter 5.1.2
 - PyPDF2 3.0.1
 - pyttsx3 2.90<br>
