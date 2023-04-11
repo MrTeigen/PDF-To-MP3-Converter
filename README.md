@@ -19,5 +19,5 @@ I included a .exe file for easy use
 As the program is written in python and python is included for both linux and mac. You can therefore run the program as is, though you might need some of the dependencies: 
 - customtkinter 5.1.2
 - PyPDF2 3.0.1
-- pyttsx3 2.90
+- pyttsx3 2.90<br>
 Then it should work the same way as it does for windows
